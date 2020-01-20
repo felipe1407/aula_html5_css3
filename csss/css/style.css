@@ -1,0 +1,16 @@
+body
+{
+background:coral;
+margin-left: 200px;
+margin-right: 200px;
+}
+h1{
+    color: red;
+    font-family: fantasy;
+}
+image{
+    margin-bottom: 30px;
+}
+footer {
+    margin-bottom: 100px;
+}
